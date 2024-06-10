@@ -1,0 +1,7 @@
+.draft-editor {
+  min-height: 300px;
+  max-height: max-content;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
